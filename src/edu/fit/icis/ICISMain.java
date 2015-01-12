@@ -6,4 +6,8 @@ package edu.fit.icis;
  */
 public class ICISMain
 {
+    public static void main(String[] args)
+    {
+        System.out.println("Calling ICISMain");
+    }
 }
