@@ -1,7 +1,9 @@
 package edu.fit.icis;
 
 /**
- * A change made on the main FIT branch of the code.
+ * Changed this in the APL branch.
+ * We'll want to do lots of stuff on this branch
+ * lots of stuff
  * Created by teskridge on 1/12/15.
  */
 public class ICISMain
