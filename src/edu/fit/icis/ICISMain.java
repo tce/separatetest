@@ -14,4 +14,8 @@ public class ICISMain
     {
         System.out.println("Calling ICISMain");
     }
+
+    public void start()
+    {
+    }
 }
